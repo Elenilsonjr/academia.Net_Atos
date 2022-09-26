@@ -1,0 +1,15 @@
+C:\curso\Questao04\Questao04\bin\Debug\net6.0\Questao04.exe
+C:\curso\Questao04\Questao04\bin\Debug\net6.0\Questao04.deps.json
+C:\curso\Questao04\Questao04\bin\Debug\net6.0\Questao04.runtimeconfig.json
+C:\curso\Questao04\Questao04\bin\Debug\net6.0\Questao04.dll
+C:\curso\Questao04\Questao04\bin\Debug\net6.0\Questao04.pdb
+C:\curso\Questao04\Questao04\obj\Debug\net6.0\Questao04.csproj.AssemblyReference.cache
+C:\curso\Questao04\Questao04\obj\Debug\net6.0\Questao04.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\Questao04\Questao04\obj\Debug\net6.0\Questao04.AssemblyInfoInputs.cache
+C:\curso\Questao04\Questao04\obj\Debug\net6.0\Questao04.AssemblyInfo.cs
+C:\curso\Questao04\Questao04\obj\Debug\net6.0\Questao04.csproj.CoreCompileInputs.cache
+C:\curso\Questao04\Questao04\obj\Debug\net6.0\Questao04.dll
+C:\curso\Questao04\Questao04\obj\Debug\net6.0\refint\Questao04.dll
+C:\curso\Questao04\Questao04\obj\Debug\net6.0\Questao04.pdb
+C:\curso\Questao04\Questao04\obj\Debug\net6.0\Questao04.genruntimeconfig.cache
+C:\curso\Questao04\Questao04\obj\Debug\net6.0\ref\Questao04.dll
